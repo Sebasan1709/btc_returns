@@ -159,9 +159,9 @@ El modelo mostró un **sesgo bajista marcado**: predijo "baja" el 74% de las vec
 ```
 taller_retornos_bitcoin/
   notebooks/
-    06_btc_returns.ipynb
-  pyproject.toml
-  poetry.lock
+    btc_returns.ipynb
+pyproject.toml
+poetry.lock
 ```
 
 ---
